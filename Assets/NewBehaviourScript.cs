@@ -40,6 +40,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	void lozgur ()
 	{
 		throw new System.NotImplementedException ();
+		Debug.Log ("Hello World");
 	}
 
 	void alpersilistre ()
