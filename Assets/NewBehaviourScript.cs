@@ -9,7 +9,8 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void emressio ()
 	{
-		throw new System.NotImplementedException ();
+		
+		Debug.Log("EMRE PAK");
 	}
 
 	void burakalakuss ()
