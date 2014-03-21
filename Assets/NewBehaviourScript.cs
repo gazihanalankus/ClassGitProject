@@ -4,7 +4,7 @@ using System.Collections;
 public class NewBehaviourScript : MonoBehaviour {
 	void ayberkyatagan ()
 	{
-		Debug.Log ("Ayberk Yatagan!");
+		Debug.Log ("Ayberk Yatagan! Hayır Ben.");
 	}
 
 	void emressio ()
