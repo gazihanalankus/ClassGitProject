@@ -4,7 +4,7 @@ using System.Collections;
 public class NewBehaviourScript : MonoBehaviour {
 	void ayberkyatagan ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("Ayberk Yatagan!");
 	}
 
 	void emressio ()
