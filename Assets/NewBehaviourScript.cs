@@ -25,7 +25,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void andactemel ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("Andaç Temel");
 	}
 
 	void HuseyinUtkuASLAN ()
@@ -35,7 +35,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void keremdincer ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("Kerem Dincer");
 	}
 
 	void lozgur ()
