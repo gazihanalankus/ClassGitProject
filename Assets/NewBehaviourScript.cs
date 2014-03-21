@@ -9,7 +9,8 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void emressio ()
 	{
-		throw new System.NotImplementedException ();
+		
+		Debug.Log("EMRE PAK");
 	}
 
 	void burakalakuss ()
@@ -34,7 +35,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void keremdincer ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("Kerem Dincer");
 	}
 
 	void lozgur ()
