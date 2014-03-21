@@ -46,7 +46,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void alpersilistre ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("Merhaba oyun sever arkadaşlar");
 	}
 
 	// Use this for initialization
