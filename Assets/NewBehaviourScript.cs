@@ -10,7 +10,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	void emressio ()
 	{
 		
-		Debug.Log("EMRE PAK - İhsan");
+		Debug.Log("Gazihan");
 	}
 
 	void burakalakuss ()
