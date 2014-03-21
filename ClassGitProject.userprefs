@@ -2,7 +2,11 @@
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NewBehaviourScript.cs">
     <Files>
+<<<<<<< HEAD
       <File FileName="Assets\NewBehaviourScript.cs" Line="68" Column="1" />
+=======
+      <File FileName="Assets\NewBehaviourScript.cs" Line="69" Column="1" />
+>>>>>>> 6cc7ce3be8fb19cad2729f0ef6c28ae46ccabd13
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
