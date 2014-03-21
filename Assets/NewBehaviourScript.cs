@@ -14,7 +14,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void burakalakuss ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("selam");
 	}
 
 	void ihsankcsbn ()
