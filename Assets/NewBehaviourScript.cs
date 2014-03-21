@@ -20,7 +20,7 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void ihsankcsbn ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("iHSAN KOCAŞABAN.");
 	}
 
 	void andactemel ()
