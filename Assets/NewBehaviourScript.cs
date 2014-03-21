@@ -4,27 +4,28 @@ using System.Collections;
 public class NewBehaviourScript : MonoBehaviour {
 	void ayberkyatagan ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("Ayberk Yatagan!");
 	}
 
 	void emressio ()
 	{
-		throw new System.NotImplementedException ();
+		
+		Debug.Log("EMRE PAK");
 	}
 
 	void burakalakuss ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("selam");
 	}
 
 	void ihsankcsbn ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("iHSAN KOCAŞABAN.");
 	}
 
 	void andactemel ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("Andaç Temel");
 	}
 
 	void HuseyinUtkuASLAN ()
@@ -34,12 +35,13 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void keremdincer ()
 	{
-		throw new System.NotImplementedException ();
+		Debug.Log ("Kerem Dincer");
 	}
 
 	void lozgur ()
 	{
 		throw new System.NotImplementedException ();
+		Debug.Log ("Hello World");
 	}
 
 	void alpersilistre ()
